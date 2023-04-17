@@ -14,7 +14,7 @@ Extra personal:
 automatizados acorde a las fechas de entrada y salida del húesped a ser actualizadas".
 - Gestión y creación de Usuarios nuevos para acceder al sistema.
 - Cada usuario tiene opciones diferentes en el ámbito (CREATE, UPDATE, DELETE).
-- Interfaz de ventanas transparente y en modo nocturno inspirado en Material Design.
+
 
 **Tecnologías 💻:**
 
