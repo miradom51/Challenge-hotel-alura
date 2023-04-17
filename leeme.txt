@@ -1,0 +1,9 @@
+gerente ingreso total al sistema
+usuario:  admin1
+admin:    admin
+
+
+recepcionista ingreso al sistema con restricciones 
+
+usuario:  admin
+contraseña: admin
